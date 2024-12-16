@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chungtran2000/appeb25.git/static/css/main.5221306f.css",
+    "main.js": "/chungtran2000/appeb25.git/static/js/main.1587f713.js",
+    "static/js/453.3311e873.chunk.js": "/chungtran2000/appeb25.git/static/js/453.3311e873.chunk.js",
+    "index.html": "/chungtran2000/appeb25.git/index.html",
+    "main.5221306f.css.map": "/chungtran2000/appeb25.git/static/css/main.5221306f.css.map",
+    "main.1587f713.js.map": "/chungtran2000/appeb25.git/static/js/main.1587f713.js.map",
+    "453.3311e873.chunk.js.map": "/chungtran2000/appeb25.git/static/js/453.3311e873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5221306f.css",
+    "static/js/main.1587f713.js"
+  ]
+}
