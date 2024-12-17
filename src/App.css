@@ -1,6 +1,9 @@
 .App {
   text-align: center;
+
 }
+
+
 
 .App-logo {
   height: 40vmin;
@@ -14,7 +17,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color:null;
+  /* background-color: rgb(94, 94, 187); */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,6 +30,11 @@
 
 .App-link {
   color: #61dafb;
+}
+.weather-icon {
+  width: 45px;
+
+  margin-right: 10px;
 }
 
 @keyframes App-logo-spin {
