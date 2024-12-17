@@ -14,8 +14,8 @@ function App() {
   const fetchWeatherByCoordinates = async () => {
     // const latitude = 10.7546174; // Vĩ độ của TP. Hồ Chí Minh
     // const longitude = 106.3648988; // Kinh độ của TP. Hồ Chí Minh
-    const latitude = 15.4472446; // Vĩ độ của núi thành
-    const longitude = 108.4982008; // Kinh độ của núi thành
+    const latitude = 15.4359919; // Vĩ độ của núi thành
+    const longitude = 108.6169731; // Kinh độ của núi thành
 
     try {
       const response = await fetch(
